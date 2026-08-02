@@ -5,9 +5,9 @@
 
 ---
 
-![刚运行默认服务器界面](photos/服务器运行结果.jpg)
+![刚运行默认服务器界面](photos/server_run.jpg)
 
-![日志情况](photos/启动日志结果.jpg)
+![日志情况](photos/server_log.jpg)
 
 ## 功能特性
 
